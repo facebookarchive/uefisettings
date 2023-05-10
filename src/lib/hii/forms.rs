@@ -1,5 +1,3 @@
-// (c) Meta Platforms, Inc. and affiliates. Confidential and proprietary.
-
 use std::cell::RefCell;
 use std::collections::HashMap;
 use std::collections::HashSet;

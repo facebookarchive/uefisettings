@@ -1,5 +1,3 @@
-// (c) Meta Platforms, Inc. and affiliates. Confidential and proprietary.
-
 use std::fmt::Debug;
 use std::fs::File;
 use std::io::Read;

@@ -1,5 +1,3 @@
-// (c) Meta Platforms, Inc. and affiliates. Confidential and proprietary.
-
 use std::ffi::c_void;
 use std::ffi::CStr;
 use std::path::Path;

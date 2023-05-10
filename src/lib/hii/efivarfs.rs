@@ -1,5 +1,3 @@
-// (c) Meta Platforms, Inc. and affiliates. Confidential and proprietary.
-
 use std::path::Path;
 
 use anyhow::anyhow;
