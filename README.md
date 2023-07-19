@@ -1,5 +1,7 @@
 # `uefisettings`
 
+## Do not use this repository, it is archived. The project is now maintained in repository [`linuxboot/uefisettings`](https://github.com/linuxboot/uefisettings).
+
 ## About
 
 `uefisettings` is a tool to read and write BIOS settings on a local host. It currently supports two interfaces:
